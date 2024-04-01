@@ -7,4 +7,3 @@ Author-Arjun
 2) customized biased dice simulator
 <br>
 3) notifying revision time while preparing for exam
-<br>
