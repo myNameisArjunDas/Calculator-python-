@@ -3,3 +3,5 @@ python-projects
 Author-Arjun
 <br>
 1)calculator
+<br>
+2) customized biased dice simulator 
